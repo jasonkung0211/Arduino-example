@@ -7,3 +7,7 @@
 
 ### Matrix Led
     MAX7219
+    
+### Hall-effect sensor handbrake
+    Arduino Pro Micro 5v/16MHZ
+    ah3503 hall effect sensor
